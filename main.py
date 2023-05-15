@@ -11,7 +11,7 @@ elif alistamento <=64:
 if alistamento >65:
     print("vá descansar")
 if alistamento ==65:
-    print("eita!")
+    print("Eita!")
 if alistamento ==18:
     print("eita")
 
